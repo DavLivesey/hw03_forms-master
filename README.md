@@ -1,2 +1,2 @@
-# hw03_forms
-hw03_forms
+# Yatube. Stage 2
+Ability to add new publications
